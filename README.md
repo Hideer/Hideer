@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there,Code cool 🏃!
+   
+   blogs: [Sun YMC'blog](https://ruraltech.cn/) 掘金: [好久不见](https://juejin.im/user/800100195239607)
+   
+   Languages and Tools:
+   
+   js、vue、react、node
+   
 
 <!--
 **Hideer/Hideer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
